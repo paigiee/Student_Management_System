@@ -1,3 +1,10 @@
-"# Student_Management_System" 
-"# Student_Management_System" 
-"# Student_Management_System" 
+# Student Management System Console
+
+This console is all about managing student details.
+
+# Features
+[] Add Student
+[] Student Details
+[] Student Search
+[] Remove Student
+[] Edit Student Information
