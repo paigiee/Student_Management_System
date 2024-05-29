@@ -3,7 +3,7 @@
 This console is all about managing student details.
 
 # Features
-[] Add Student \n
+[] Add Student
 [] Student Details
 [] Student Search
 [] Remove Student
